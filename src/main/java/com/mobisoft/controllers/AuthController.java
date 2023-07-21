@@ -24,6 +24,7 @@ import com.mobisoft.services.UserServiceI;
 @RequestMapping("/api/auth")
 public class AuthController {
 
+	//THIS IS AUTH
 	public static final Logger logger = LoggerFactory.getLogger(AuthController.class);
 	
 	@Autowired
