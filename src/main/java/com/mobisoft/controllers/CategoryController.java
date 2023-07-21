@@ -28,7 +28,7 @@ import com.mobisoft.services.implementation.CategoryServiceImpl;
 public class CategoryController {
 	 
 	private static final Logger logger = LoggerFactory.getLogger(CategoryController.class);
-	
+	// this is category controller - dev
 	@Autowired
 	private CategoryServiceI categoryServiceI;
 	
