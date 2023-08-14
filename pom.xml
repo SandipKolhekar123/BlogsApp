@@ -11,6 +11,7 @@
 	<groupId>com.mobicool</groupId>
 	<artifactId>blogs-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>blogs-app</name>
 	<description>blogging application using springboot</description>
 	<properties>
